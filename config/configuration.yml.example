@@ -1,0 +1,7 @@
+defaults:
+  connection_options: { host: "__your_host__",
+                        port: "__your_port__",
+                        vhost: "__your_vhost__",
+                        username: "__your_username__",
+                        password: "__your_password__"
+                        }
